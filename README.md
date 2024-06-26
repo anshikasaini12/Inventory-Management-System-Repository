@@ -31,7 +31,7 @@ How to download and run the software
 Minimum Requirements: JDK or JRE version 16.
 Download and unzip the ZIP folder: InventoryManagement.zip
 
-Download the SQL dump file
+Download the SQL dump file: inventory DB
 
 Import the SQL dump file using MySQL Workbench to locally create the sample schema and tables associated with this software.
 
